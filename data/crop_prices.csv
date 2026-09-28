@@ -1,0 +1,19 @@
+Commodity,Category,Grade_A_Min,Grade_A_Max,Grade_B_Min,Grade_B_Max,Unit
+Talong,Lowland,70,90,45,65,kg
+Broccoli,Highland,120,180,80,110,kg
+Cauliflower,Highland,110,160,70,100,kg
+Kamatis,Lowland,50,85,30,45,kg
+Cabbage,Highland,70,110,40,65,kg
+Carrots,Highland,80,120,50,75,kg
+Ampalaya,Lowland,70,105,45,65,kg
+Kalabasa,Lowland,30,50,20,30,kg
+Sitaw,Lowland,60,90,35,55,kg
+Okra,Lowland,50,80,30,45,kg
+Pechay Native,Lowland,60,90,35,50,kg
+Pechay Baguio,Highland,50,80,30,45,kg
+Sayote,Highland,30,55,15,25,kg
+Patatas,Highland,80,130,50,75,kg
+Luya,Spice,90,140,60,85,kg
+Red Onion,Spice,110,160,80,105,kg
+White Onion,Spice,100,150,70,95,kg
+Siling Haba,Spice,100,180,60,90,kg
